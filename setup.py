@@ -7,5 +7,5 @@ setup(
     author="C.Brueckner",
     author_email="chris.brueckner@fau.de",
     packages=find_packages(),
-    install_requires=["random", "unittest"],
+    install_requires=[],
 )
